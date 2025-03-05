@@ -16,7 +16,7 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
 ### 1️⃣ **Sales Analytics Dashboard (PowerBI)**
 - **Description**: ............
 - **Tools**: ..........
-- **[View Project File Here](/PowerBI/Sales_Analytics_Dashboard.pbix)**
+- **[View Project File Here](/PowerBI/Sales_Analytics_Dashboard.pbix?raw=true)**
 
 
 
