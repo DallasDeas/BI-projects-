@@ -13,10 +13,10 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
 ## 📌 Projects
 *Here are some of my key projects*:
 
-### 1️⃣ **Sales Dashboard (PowerBI)**
+### 1️⃣ **Sales Analytics Dashboard (PowerBI)**
 - **Description**: ............
 - **Tools**: ..........
-- **[View Project]**
+- **[View Project File Here](/PowerBI/Sales_Analytics_Dashboard.pbix)**
 
 
 
