@@ -1,2 +1,1 @@
-# Portfolio
-Hello My name is Dallas Deas        
+# Dallas Deas - Data Analysis Portfolio
