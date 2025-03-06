@@ -11,7 +11,7 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
 - ⚙️ Python
 
 ## 📌 Projects
-*Here are some of my key projects*:
+*Here are some of my projects*:
 
 ### 1️⃣ **Sales Analytics Dashboard (PowerBI)**
 - ***Description***: This Dashboard was built using **Power BI** to analyze key business metrics like revenue trends, customer behavior, and product performance. By using **DAX calculations**, **interactive visualizations**, and **data transformations**, this project provides valuable insights to support **data-driven decision-making** and business growth.
