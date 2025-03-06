@@ -21,6 +21,16 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
 - ***[View Project File Here](/PowerBI/README.md)***
 
 
+## 🎓 Education
+### Young Harris College  
+📍 **Bachelor’s in Finance & Accounting** | *Expected Graduation: May 2025*  
+📌 **Minor:** *Management*  
+
+**Relevant Coursework:**  
+- *Database & Information Systems*
+- *Business Intelligence & Visualization*
+- *Programming in Python*
+- *Data Analytics & Decision-Making*
 
 ## Contact
 - *Email*: DallasJDeas03@gmail.com
