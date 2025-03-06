@@ -3,7 +3,7 @@
 ### [[Project File]](/PowerBI/Content/Sales_Analytics_Dashboard.pbix)
 
 ## *PowerBI Dashboard Preview*
-![Dashboard Preview](/PowerBI/Images/Sales_Dashboard_Images/SalesDashboard.png)
+![Dashboard Preview](/PowerBI/Images/SalesDashboard/SalesDashboard.png)
 
 ## Goal
 - The goal of this dashboard is to provide a comprehensive overview of **sales performance** by analyzing key metrics such as *revenue*, *customer trends*, and *product profitability*. It enables **data-driven decision-making by visualizing insights** on sales trends, world performance, and KPIs to **optimize business growth**.
