@@ -15,6 +15,31 @@
 - This project demonstrates my ability to work with **data visualization**, **business intelligence tools**, and **performance analysis** to create meaningful reports that drive informed decisions.
 ## Analysis
 ![Dashboard Preview](/PowerBI/Images/SalesDashboard/Sales_for_the_last_week.png)
+```DAX
+Profit for the last week = 
+CALCULATE(
+    SUM(Orders[Profit]), 
+    Orders[Order Date] >= MAX('Orders'[Order Date]) - 7
+)
+
+Sales for the last day = 
+CALCULATE(
+    SUM(Orders[Sales]), 
+    Orders[Order Date] = MAX('Orders'[Order Date])
+)
+
+Sales for the last week = 
+CALCULATE(
+    SUM(Orders[Sales]), 
+    Orders[Order Date] >= MAX('Orders'[Order Date]) - 7
+)
+
+Shipping for the last week = 
+CALCULATE(
+    SUM(Orders[Shipping Cost]), 
+    Orders[Order Date] >= MAX('Orders'[Order Date]) - 7
+)
+```
 
 ## Skills
 
