@@ -14,7 +14,7 @@
   
 - This project demonstrates my ability to work with **data visualization**, **business intelligence tools**, and **performance analysis** to create meaningful reports that drive informed decisions.
 ## Analysis
-![Dashboard Preview](/PowerBI/Images/SalesDashboard/Salesforthelastweek.png)
+![Dashboard Preview](/PowerBI/Images/SalesDashboard/Sales_for_the_last_week.png)
 
 ## Skills
 
