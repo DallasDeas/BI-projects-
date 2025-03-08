@@ -1,6 +1,7 @@
 # Analyzing the Factors Behind Sales Performance
 
-### [[Project File]](/PowerBI/Content/Sales_Analytics_Dashboard.pbix)
+### [[Project File]](/PowerBI/Content/Sales_Analytics_Dashboard.pbix)      [< Back to Portfolio](https://github.com/DallasDeas/Portfolio)
+
 
 ## *PowerBI Dashboard Preview*
 ![Dashboard Preview](/PowerBI/Images/SalesDashboard/SalesDashboard.png)
