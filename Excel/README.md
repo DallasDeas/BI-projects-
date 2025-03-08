@@ -1,6 +1,6 @@
 # Bank Loan Dashboard
 
-### [[Project File]](/Excel/Content/Bank_Load_Dashboard.pbix)
+### [[Project File]](/Excel/Content/Bank_Load_Dashboard.xlsx)
 
 ## *PowerBI Dashboard Preview*
 ![Dashboard Preview](/Excel/Images/BankLoanS.png)
