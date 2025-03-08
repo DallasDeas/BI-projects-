@@ -2,6 +2,8 @@
 
 ### [[Project File]](/PowerBI/Content/MLB_Dashboard.pbix)
 
+### [[Back to Portfolio]](https://github.com/DallasDeas/Portfolio)
+
 ## *PowerBI Dashboard Preview*
 ![Dashboard Preview](/PowerBI/Images/MLBDashboard/MLB_Dash1.png)
 
