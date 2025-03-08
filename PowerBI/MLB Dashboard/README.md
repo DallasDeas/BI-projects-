@@ -1,4 +1,4 @@
-# Analyzing the Factors Behind Sales Performance
+# Analyzing MLB's Total PayRoll Allocation and Success
 
 ### [[Project File]](/PowerBI/Content/MLB_Dashboard.pbix)
 
