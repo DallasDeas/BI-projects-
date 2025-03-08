@@ -13,3 +13,7 @@
 - The dashboard reveals trends in ***payroll allocation over time***, ***compares spending across teams***, and ***explores the relationship between payroll investment and team performance***. Users can dive into specific segments to assess cost efficiency and understand budgeting strategies within Major League Baseball.
 
 - This project reflects my ability to merge financial analysis with sports data, delivering actionable insights that support ***data-driven decisions***.
+
+## Analysis
+![Dashboard Preview](/PowerBI/Images/MLBDashboard/MLB_Measures.png)  
+- I created measures like ***AvgCostPerWin***, ***CostPerWin***, and ***WinLossRatio*** to see how each MLB team’s payroll translates into performance on the field. By identifying the ***CheapestTeam and MostExpensiveTeam***, I can highlight spending differences across the league, while metrics such as ***Win% and WinRatioTarget*** show how those investments pay off. Together with details like ***Average Age, Total Payroll Allocations, and Postseason appearances***, these measures paint a clear picture of how financial decisions influence a team’s success.
