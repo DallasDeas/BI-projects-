@@ -17,3 +17,10 @@
 ## Analysis
 ![Dashboard Preview](/PowerBI/Images/MLBDashboard/MLB_Measures.png)  
 - I created measures like ***AvgCostPerWin***, ***CostPerWin***, and ***WinLossRatio*** to see how each MLB team’s payroll translates into performance on the field. By identifying the ***CheapestTeam and MostExpensiveTeam***, I can highlight spending differences across the league, while metrics such as ***Win% and WinRatioTarget*** show how those investments pay off. Together with details like ***Average Age, Total Payroll Allocations, and Postseason appearances***, these measures paint a clear picture of how financial decisions influence a team’s success.
+##
+![Dashboard Preview](/PowerBI/Images/MLBDashboard/MLB_Drill2.png)
+- This ***Drill-Down*** is designed to provide a quick, in-depth look at any of the MLB team's performance within the larger MLB dashboard. By right-clicking on any of the team's data, end users can see details like the ***Win Loss Ratio & Target Goal, Win Percentage, and Cost Per Win***. The gauge indicates how close the team is to its ***win-loss target***, the ***Win Percentage*** shows their ***overall success rate, and the Cost Per Win highlights financial efficiency***. A ***historical line chart*** displays yearly wins and losses, giving context to their long-term trends.
+
+##
+![Dashboard Preview](/PowerBI/Images/MLBDashboard/MLB_tooltip2.png)
+- This ***tooltip page (1 of 2)*** shows a bar chart ***comparing the total number of wins and losses*** across various MLB teams. It offers a quick way to see which franchises have historically dominated in wins or struggled with losses. By hovering over specific points in the main dashboard, users can instantly access these ***team-by-team totals***, making it easier to spot trends and compare overall performance at a glance.
