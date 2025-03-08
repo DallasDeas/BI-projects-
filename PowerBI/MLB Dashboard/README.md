@@ -24,3 +24,13 @@
 ##
 ![Dashboard Preview](/PowerBI/Images/MLBDashboard/MLB_tooltip2.png)
 - This ***tooltip page (1 of 2)*** shows a bar chart ***comparing the total number of wins and losses*** across various MLB teams. It offers a quick way to see which franchises have historically dominated in wins or struggled with losses. By hovering over specific points in the main dashboard, users can instantly access these ***team-by-team totals***, making it easier to spot trends and compare overall performance at a glance.
+
+## Skills
+- ***Data Modeling***
+- ***Data Visualization***
+- ***Dashboard Creation***
+## Technology
+- ***Power Query***
+- ***PowerBI***
+- ***Dax***
+- ***M***
