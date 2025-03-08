@@ -56,6 +56,7 @@ CALCULATE(
 - ***Data Modeling***
 - ***Data Visualization***
 - ***Dashboard Creation***
+- ***Data Analysis***
 ## Technology
 - ***Power Query***
 - ***PowerBI***
