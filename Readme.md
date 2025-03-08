@@ -14,19 +14,18 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
 *Here are some of my projects*:
 
 ### 1️⃣ **Sales Analytics Dashboard (PowerBI)**
-- ***Description***: This Dashboard was built using **Power BI** to analyze key business metrics like revenue trends, customer behavior, and product performance. By using **DAX calculations**, **interactive visualizations**, and **data transformations**, this project provides valuable insights to support **data-driven decision-making** and business growth.
+- ***Description***: This Dashboard was built using ***Power BI*** to analyze key business metrics like revenue trends, customer behavior, and product performance. By using ***DAX calculations***, ***interactive visualizations***, and ***data transformations***, this project provides valuable insights to support ***data-driven decision-making*** and business growth.
   
 - ***Tools***: PowerBI, Power Query, DAX, and M
   
 - ***[View Project File Here](/PowerBI/README.md)***
 
 ### 2️⃣ **MLB Total PayRoll Allocation Dashboard (PowerBI)**
-- ***Description***: ..........
+- ***Description***: This MLB Dashboard is a project I built with ***Power BI*** to dive deep into baseball metrics. I focused on tracking ***team performance trends***, ***player stats***, and ***game outcomes*** by using ***DAX calculations***, ***interactive visualizations***, and ***careful data transformations***. The dashboard is designed to help uncover insights that support smart, data-driven decisions in sports analytics, reflecting both my passion for baseball and my approach to data storytelling.
   
 - ***Tools***: PowerBI, Power Query, DAX, and M
   
 - ***[View Project File Here](/PowerBI/README.md)***
-
 
 
 ## 🎓 Education
