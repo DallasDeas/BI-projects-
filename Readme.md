@@ -25,7 +25,7 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
   
 - ***Tools***: PowerBI, Power Query, DAX, and M
   
-- ***[View Project File Here](/PowerBI/MLB Dashboard/README.md)***
+- ***[View Project File Here](/PowerBI/MLBDashboard/README.md)***
 
 
 ## 🎓 Education
