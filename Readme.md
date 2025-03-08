@@ -20,6 +20,14 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
   
 - ***[View Project File Here](/PowerBI/README.md)***
 
+### 2️⃣ **MLB Total PayRoll Allocation Dashboard (PowerBI)**
+- ***Description***: ..........
+  
+- ***Tools***: PowerBI, Power Query, DAX, and M
+  
+- ***[View Project File Here](/PowerBI/README.md)***
+
+
 
 ## 🎓 Education
 ### Young Harris College  
