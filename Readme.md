@@ -27,6 +27,13 @@ Hello, My name is Dallas Deas and I am a **Finance and Accounting major** at You
   
 - ***[View Project File Here](/PowerBI/MLBDashboard/README.md)***
 
+### 3️⃣ **Bank Loan Dynamics Dashboard (Excel)**
+- ***Description***: This interactive Excel dashboard dives into key loan metrics like ***application volumes, interest rates, funded amounts, and default rates***. Using ***advanced Excel tools*** such as ***pivot tables and dynamic charts***, I broke down the data by region and loan purpose to make it easy to spot trends and identify potential risks. This project not only showcases my ***data analysis and financial modeling*** skills but also my ability to turn data into clear, actionable insights for smarter lending strategies.
+  
+- ***Tools***: Excel, Power Query, M
+  
+- ***[View Project File Here](/Excel/README.md)***
+
 
 ## 🎓 Education
 ### Young Harris College  
