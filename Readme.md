@@ -1,5 +1,9 @@
 # 💼 Dallas Deas - Data Analysis Portfolio
 
+<a href="https://github.com/DallasDeas" target="_blank" rel="noopener noreferrer" style="font-size:24px; font-weight:bold;">
+  Back to main page
+</a>
+
 ## 📌 Projects
 *Here are some of my projects*:
 
