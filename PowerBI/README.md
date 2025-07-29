@@ -2,7 +2,7 @@
 
 ### [[Project File]](/PowerBI/Content/Sales_Analytics_Dashboard.pbix)      
 
-### [[Back to Portfolio]](https://github.com/DallasDeas/Portfolio)
+### [[Back to Portfolio]](https://github.com/DallasDeas/BI-projects-)
 
 
 ## *PowerBI Dashboard Preview*
