@@ -37,7 +37,7 @@ I’m Dallas Deas, a ***Finance and Accounting graduate*** from Young Harris Col
 
 ## 🎓 Education
 ### Young Harris College  
-📍 **Bachelor’s in Finance & Accounting** | *Expected Graduation: May 2025*  
+📍 **Bachelor’s in Finance & Accounting** | *May 2025*  
 📌 **Minor:** *Management*  
 
 **Relevant Coursework:**  
