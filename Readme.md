@@ -1,15 +1,5 @@
 # 💼 Dallas Deas - Data Analysis Portfolio
 
-## 👋 About Me
-I’m Dallas Deas, a ***Finance and Accounting graduate*** from Young Harris College (May 2025) and former NCAA Division II baseball scholarship athlete. My portfolio showcases ***interactive Power BI dashboards, automated Power Automate workflows, and advanced Excel models*** that drive forecasting and strategic decision-making. I’m passionate about collaborating on open-source projects, exploring new BI techniques, and sharing practical solutions that help teams work smarter.
-## 🛠 Skills
-- 📊 Power BI 
-- 🔥 Microsoft Power Platform (Power Query, Power Pivot, DAX, M and Power Automate)
-- 📈 Advanced Microsoft Excel (Advanced formulas, Forecasting & Financial Modeling, and Pivot Tables)
--  📂 Microsoft Office and Google Workspace
--  🗄  SQL
-- ⚙️ Python
-
 ## 📌 Projects
 *Here are some of my projects*:
 
@@ -33,21 +23,3 @@ I’m Dallas Deas, a ***Finance and Accounting graduate*** from Young Harris Col
 - ***Tools***: Excel, Power Query, M
   
 - ***[View Project File Here](/Excel/README.md)***
-
-
-## 🎓 Education
-### Young Harris College  
-📍 **Bachelor’s in Finance & Accounting** | *May 2025*  
-📌 **Minor:** *Management*  
-
-**Relevant Coursework:**  
-- *Database & Information Systems*
-- *Business Intelligence & Visualization*
-- *Programming in Python*
-- *Data Analytics & Decision-Making*
-
-## Contact
-- *Email*: DallasJDeas03@gmail.com
-- *Moblie Phone*: (770) 652-5896
-- *[LinkedIn](https://www.linkedin.com/in/dallas-deas-0b5978302/)*
-  
